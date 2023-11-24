@@ -115,7 +115,6 @@ int main(){
     printA_resultado(1);
     return 0;
 }
-
 /*
 v1 v2 peso
 1 2 1
